@@ -12,6 +12,6 @@ We do have a limited library as of now. You can see the emojis we know of as cli
 1. React
 1. JSX
 1. JavaScript
-1. HTML & CSS
+1. HTML and CSS
 ___
 ## [Click here to try it out.](https://s15nk5.csb.app/)
