@@ -7,7 +7,11 @@ var travelDictionary = {
   "🏜️": "Desert",
   "🏦": "Bank",
   "🏰": "Castle",
-  "🛤️": "Railway track"
+  "🛤️": "Railway track",
+  "🏝️": "Desert Island",
+  "🗻": "Mount Fuji",
+  "🏖️": "Beach with Umbrella",
+  "🏕️":"Camping"
 };
 
 var placesWeKnow = Object.keys(travelDictionary);
